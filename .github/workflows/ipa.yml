@@ -74,7 +74,7 @@ on:
 
       youslider:
         description: "Integrate YouSlider"
-        default: true
+        default: false
         required: false
         type: boolean
 
